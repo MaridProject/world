@@ -49,8 +49,8 @@ But what if some instances have a memory? In sense that each of them can memoriz
 
 When a poet writes some poem, he/she writes the words from some set of words in some order, but being shuffled these words are not more than a meaningless set of words. There is not any God's Providence here: there is a simple probability that some world exists, it has creatures with memory and conscience in sense that they can represent some amount of information around them as a current state understanding this as a current reality, can memorize "these realities" with some level of error and incompleteness buf it's sufficient to them to say that it was their life.
 
-1. When a creature see something, it's supposed to be probable; since it's probable, it exists
-2. When a creature memorize something, it's supposed to be probable; since it's probable, it exists
+1. When a creature sees something, it's supposed to be probable; since it's probable, it exists
+2. When a creature memorizes something, it's supposed to be probable; since it's probable, it exists
 3. A conscience is a way to connect the previous memorized state to the current one, to found the changes and to try to make predictions. So, the probability that that kind of creatures exists is related to an ability of deducing rules justifying the existence per se. There's no evolution here as a matter of Life: such Life is a matter of the evolution.
 
 # The rule of Probability
