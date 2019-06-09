@@ -30,3 +30,7 @@ Please look at this picture:
 0 | 1 | 0
 0 | 1 | 0
 ```
+
+Considering an infinite number of numbers in each dimension, we'll get an infinite number of pieces like the 1st frame, an infinite number of pieces like the 2nd frame and so on. Moreover, we'll get an infinite number of all horizontally or vertically connected frames.
+
+If you connect all these frames in your mind, you'll get a rotating pipe.
