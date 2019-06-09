@@ -39,6 +39,8 @@ If you connect all these frames in your mind, you'll get a rotating pipe.
 
 If we have an infinity of all english words mixed in some container, we'll have also an infinite number of sequences of them so that each sequence become the Romeo and Juliet.
 
+But this kind of complexity is a simple puzzle unless... 
+
 # Life
 
 Any complex object you can imagine could be represented by some N-dimensional piece of the sequence above. As far as the sequence is infinite, there are infinte instances of such objects.
