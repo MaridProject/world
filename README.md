@@ -35,7 +35,7 @@ Considering an infinite number of numbers in each dimension, we'll get an infini
 
 If you connect all these frames in your mind, you'll get a rotating pipe.
 
-# The complexity
+# Complexity
 
 If we have an infinity of all english words mixed in some container, we'll have also an infinite number of sequences of them so that each sequence become the Romeo and Juliet.
 
@@ -47,7 +47,7 @@ Any complex object you can imagine could be represented by some N-dimensional pi
 
 But what if some instances have a memory? In sense that each of them can memorize some amount of information (1's and 0's) with some errors or incompleteness but sufficient to say that this one had been a previous state and this one was the current. What if some instance has a consience too? In sense that it could link one shot of memory to another one, and to feel the difference. Also, it should comprehend that every shot belongs to this creature.
 
-So, this creature will see these shots as a movement.
+So, this creature will see these shots as a movement. It has nothing to do with time. There is no time here. The movement is a simple change.
 
 # Life
 
