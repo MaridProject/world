@@ -51,7 +51,7 @@ When a poet writes some poem, he/she writes the words from some set of words in 
 
 1. When a creature sees something, it's supposed to be probable; since it's probable, it exists
 2. When a creature memorizes something, it's supposed to be probable; since it's probable, it exists
-3. A conscience is a way to connect the previous memorized state to the current one, to found the changes and to try to make predictions. So, the probability that that kind of creatures exists is related to an ability of deducing rules justifying the existence per se. There's no evolution here as a matter of Life: such Life is a matter of the evolution.
+3. A conscience is a way to connect the previous memorized state to the current one, to find the changes and to try to make predictions. So, the probability that that kind of creatures exists is related to an ability of deducing rules justifying the existence per se. There's no evolution here as a matter of Life: such Life is a matter of the evolution.
 
 # The rule of Probability
 
