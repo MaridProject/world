@@ -34,3 +34,9 @@ Please look at this picture:
 Considering an infinite number of numbers in each dimension, we'll get an infinite number of pieces like the 1st frame, an infinite number of pieces like the 2nd frame and so on. Moreover, we'll get an infinite number of all horizontally or vertically connected frames.
 
 If you connect all these frames in your mind, you'll get a rotating pipe.
+
+# Life
+
+Any complex object you can imagine could be represented by some N-dimensional piece of the sequence above. As far as the sequence is infinite, there are infinte instances of such objects.
+
+But what if some instances have a memory? In sense that each of them can memorize some amount of information (1's and 0's) with some errors or incompleteness but sufficient to say that this one had been a previous state and this one was the current. The environment of that creature must be relatively predicatable in sense that its awareness couldn't point some randomly selected piece of the Universe, but some piece that is "relatively connected" to the memory.
