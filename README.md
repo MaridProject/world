@@ -41,11 +41,15 @@ If we have an infinity of all english words mixed in some container, we'll have 
 
 But this kind of complexity is a simple puzzle unless... 
 
-# Life
+# Memory
 
 Any complex object you can imagine could be represented by some N-dimensional piece of the sequence above. As far as the sequence is infinite, there are infinte instances of such objects.
 
-But what if some instances have a memory? In sense that each of them can memorize some amount of information (1's and 0's) with some errors or incompleteness but sufficient to say that this one had been a previous state and this one was the current. The environment of that creature must be relatively predicatable in sense that its awareness couldn't point some randomly selected piece of the Universe, but some random piece that is "relatively connected" to the memory.
+But what if some instances have a memory? In sense that each of them can memorize some amount of information (1's and 0's) with some errors or incompleteness but sufficient to say that this one had been a previous state and this one was the current. What if some instance has a consience too? In sense that it could link one shot of memory to another one, and to feel the difference. Also, it should comprehend that every shot belongs to this creature.
+
+So, this creature will see these shots as a movement.
+
+# Life
 
 When a poet writes some poem, he/she writes the words from some set of words in some order, but being shuffled these words are not more than a meaningless set of words. There is not any God's Providence here: there is a simple probability that some world exists, it has creatures with memory and conscience in sense that they can represent some amount of information around them as a current state understanding this as a current reality, can memorize "these realities" with some level of error and incompleteness buf it's sufficient to them to say that it was their life.
 
