@@ -10,18 +10,22 @@ Let's imagine an unlimited sequence of random binary numbers `{...,N(i-1), Ni, N
 
 Please look at this picture:
 ```
+1st frame
 1 | 0 | 0
 0 | 1 | 0
 0 | 0 | 1
 
+2nd frame
 0 | 0 | 0
 1 | 1 | 1
 0 | 0 | 0
 
+3rd frame
 0 | 0 | 1
 0 | 1 | 0
 1 | 0 | 0
 
+4th frame
 0 | 1 | 0
 0 | 1 | 0
 0 | 1 | 0
