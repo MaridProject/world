@@ -10,7 +10,7 @@ Let's imagine an unlimited sequence of random binary numbers `{...,N(i-1), Ni, N
 
 Please look at this picture:
 ```
-0 | 0 | 0
+1 | 0 | 0
 0 | 1 | 0
 0 | 0 | 1
 
