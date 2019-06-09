@@ -10,18 +10,26 @@ Let's imagine an unlimited sequence of random binary numbers `{...,N(i-1), Ni, N
 
 Please look at this picture:
 
+1
+---------
 1 | 0 | 0
 0 | 1 | 0
 0 | 0 | 1
 
+2
+---------
 0 | 0 | 0
 1 | 1 | 1
 0 | 0 | 0
 
+3
+---------
 0 | 0 | 1
 0 | 1 | 0
 1 | 0 | 0
 
+4
+---------
 0 | 1 | 0
 0 | 1 | 0
 0 | 1 | 0
